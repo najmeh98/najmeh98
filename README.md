@@ -5,6 +5,8 @@
 
 - 📫 How to reach me najmehforoughi.dev@gmail.com
 
+- 📌 Fun fact: I'm always learning!
+
 
  <h3 align="left">Tech Stack :</h3>
 <br/> 
